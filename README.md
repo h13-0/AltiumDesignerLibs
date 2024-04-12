@@ -20,7 +20,7 @@
 | 原件  | 步进电机             | 步进电机                    | `StepperMotor.SchLib`          | 步进电机                   |
 | 模块  | STM8S103             | STM8S103F                   | `STM8S103F.SchLib`             | STM8                       |
 | 模块  | STM32                | STM32F103C8T6模块           | `STM32_Module.SchLib`          | STM32、STM32F103C8T6       |
-
+| 模块  | 编码器               | 编码器(单相、双相、三相)    | `Encoder.SchLib`               | Encoder、编码器            |
 
 
 
