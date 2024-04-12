@@ -23,6 +23,7 @@
 | 模块  | 编码器               | 编码器(单相、双相、三相)    | `Encoder.SchLib`               | Encoder、编码器            |
 | 原件  | 直流电机             | 直流电机                    | `Motor.SchLib`                 | 直流电机、电机             |
 | 模块  | H桥                  | TB6612FNG                   | `H-Bridge.SchLib`              | H桥、TB6612                |
+| 模块  | 蓝牙串口             | 蓝牙串口(AT-09)             | `BluetoothSerial.SchLib`       | 蓝牙串口、AT-09            |
 
 ## 封装库(PcbLib)
 
