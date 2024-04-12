@@ -6,7 +6,7 @@
 
 ## 原理图库(SchLib)
 
-| 类型  |      原理图库族      |          包含原件           |            对应文件            |           关键词           |
+| 类型  |      原理图库族      |          包含原件           |            对应文件            |       关键词(搜索用)       |
 | :---: | -------------------- | --------------------------- | ------------------------------ | -------------------------- |
 | 模块  | ADS1115 ADC模块      | ADS1115                     | `ADS1115.SchLib`               | ADC、ADS1115               |
 | 模块  | 升降压模块           | BUCK、Boost模块             | `BUCK_BOOST.SchLib`            | BUCK、BOOST、DC-DC         |
@@ -21,8 +21,8 @@
 | 模块  | STM8S103             | STM8S103F                   | `STM8S103F.SchLib`             | STM8                       |
 | 模块  | STM32                | STM32F103C8T6模块           | `STM32_Module.SchLib`          | STM32、STM32F103C8T6       |
 | 模块  | 编码器               | 编码器(单相、双相、三相)    | `Encoder.SchLib`               | Encoder、编码器            |
-
-
+| 原件  | 直流电机             | 直流电机                    | `Motor.SchLib`                 | 直流电机、电机             |
+| 模块  | H桥                  | TB6612FNG                   | `H-Bridge.SchLib`              | H桥、TB6612                |
 
 ## 封装库(PcbLib)
 
