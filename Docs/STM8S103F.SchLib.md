@@ -11,8 +11,10 @@ STM8S103F2/F3系列芯片原理图。
 
 ### STM8S103F2/F3 Module 26Pin
 26Pin的STM8S103F2/F3最小系统板。
+![](./Resources/STM8F103F2F3%20Module%2026Pin原理图.png)
 ![](./Resources/STM8S103F2F3%20Module%2026Pin实物.jpg)
 
 ### STM8F103F2/F3 Module 28Pin
 28Pin的STM8S103F2/F3最小系统板。
+![](./Resources/STM8F103F2F3%20Module%2028Pin原理图.png)
 ![](./Resources/STM8F103F2F3%20Module%2028Pin实物.jpg)
