@@ -1,5 +1,5 @@
 # AltiumDesignerLibs
-自用的个人绘制的AD的原理图、封装图库。  
+自用的个人绘制或网上收集的AD的原理图、封装图库。  
 使用时直接在本页搜索关键词即可。  
 表格中第二列含有每个库文件的原理图或封装图及其实物图，可点击查阅。部分特殊模块附有链接。  
 原理图库位于 `SchLib` 目录下，封装库位于 `PcbLib` 下。  
@@ -38,7 +38,7 @@
 | 模块      | FM音频发射模块                                    | FM Radio Transmitter        | `FM_Radio_Transmitter_Module.SchLib`       | FM音频发射模块               |
 | 模块      | ESP32-S3系列模块原理图库                          | ESP32-S3-MINI-1              | `ESP32-S3.SchLib`                        | ESP32-S3、ESP32 S3           |
 | 原件      | 电池符号                                          | 单节电池                    | `Battery.SchLib`                           | 电池、Battery             |
-
+| 原件      | Type C                                           | Type C 16Pin                | `Type-C-16Pin.SchLib`                    | USB、Type C              |
 
 
 ## 封装库(PcbLib)
@@ -48,5 +48,4 @@
 | 模块      | [PD诱骗器模块](./Docs/PD_Decoy.PcbLib.md)           | ADS1115                    | `PD_Decoy.PcbLib`                         | PD诱骗器                  |
 | 模块      | [STM8S103](./Docs/PD_Decoy.PcbLib.md)              | ADS1115                    | `STM8S103Fx Module.PcbLib`               | STM8S103F系列最小系统板模块 |
 | 原件      | [按钮或开关](./Docs/Switch_and_button.SchLib.md)    | 普通按钮或开关               | `Switch_and_button.PcbLib`                 | 按钮、开关、按键           |
-
-
+| 原件      | Type C                                           | Type C 16Pin                | `Type-C-16Pin.PcbLib`                    | USB、Type C              |
