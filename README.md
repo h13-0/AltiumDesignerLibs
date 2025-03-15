@@ -40,12 +40,13 @@
 | 原件      | 电池符号                                          | 单节电池                    | `Battery.SchLib`                           | 电池、Battery             |
 
 
+
 ## 封装库(PcbLib)
 
 | 类型      | 封装库族                                           | 包含原件                    |                  对应文件                  |       关键词(搜索用)       |
 | :-------: | ------------------------------------------------- | --------------------------- | ---------------------------------------- | -------------------------- |
 | 模块      | [PD诱骗器模块](./Docs/PD_Decoy.PcbLib.md)           | ADS1115                    | `PD_Decoy.PcbLib`                         | PD诱骗器                  |
 | 模块      | [STM8S103](./Docs/PD_Decoy.PcbLib.md)              | ADS1115                    | `STM8S103Fx Module.PcbLib`               | STM8S103F系列最小系统板模块 |
-
+| 原件      | [按钮或开关](./Docs/Switch_and_button.SchLib.md)    | 普通按钮或开关               | `Switch_and_button.PcbLib`                 | 按钮、开关、按键           |
 
 
